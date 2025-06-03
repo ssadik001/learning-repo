@@ -1,3 +1,3 @@
 # Learning
 
-Something I am learning. 
+Something I am learning!
